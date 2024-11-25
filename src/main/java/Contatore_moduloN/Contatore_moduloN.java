@@ -9,7 +9,7 @@ package Contatore_moduloN;
  * @author Lorenzo
  */
 public class Contatore_moduloN {
-    // Variabile privata per il valore corrente del contatore
+    // Variabile privata per il valore corrente del Contatore
     private int valore = 0;
     // Limite massimo del contatore
     private int limite;

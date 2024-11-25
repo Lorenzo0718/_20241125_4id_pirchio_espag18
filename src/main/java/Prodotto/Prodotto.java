@@ -9,7 +9,7 @@ package Prodotto;
  * @author Lorenzo
  */
 public class Prodotto {
-    //dichiarazione Attributi privati
+    //Dichiarazione Attributi privati
     private String proprietario;
     private String nomeNegozio;
 

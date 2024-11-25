@@ -10,7 +10,7 @@ package newpackage;
  */
 //rappresentazione completa
 public class TelefonoCellulare_completa {
-    //dichiarazione attributi privati
+    //Dichiarazione attributi privati
     private String marca;
     private String modello;
     private double prezzo;

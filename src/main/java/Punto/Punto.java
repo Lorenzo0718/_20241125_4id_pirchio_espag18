@@ -9,7 +9,7 @@ package Punto;
  * @author Lorenzo
  */
 public class Punto {
-    // Coordinate x e y del punto
+    // Coordinate x e y del Punto
     private double x;
     private double y;
     // Costruttore per inizializzare le coordinate

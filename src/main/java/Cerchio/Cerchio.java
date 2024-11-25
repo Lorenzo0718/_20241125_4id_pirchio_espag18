@@ -9,7 +9,7 @@ package Cerchio;
  * @author Lorenzo
  */
 public class Cerchio {
-    // Centro e raggio del cerchio
+    // Centro e raggio del Cerchio
     private double xCentro;
     private double yCentro;
     private double raggio;

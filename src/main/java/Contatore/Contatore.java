@@ -9,7 +9,7 @@ package Contatore;
  * @author Lorenzo
  */
 public class Contatore {
-    // Variabile privata che rappresenta il valore del contatore
+    // Variabile privata che rappresenta il valore del Contatore
     private int valore;
     // Metodo per incrementare il contatore di una unità
     public void incrementa() {

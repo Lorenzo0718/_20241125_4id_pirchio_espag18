@@ -9,7 +9,7 @@ package Contatore_moduloN_passoP;
  * @author Lorenzo
  */
 public class Contatore_moduloN_passoP {
-    // attributo privato per il valore corrente del contatore
+    // Attributo privato per il valore corrente del contatore
     private int valore = 0;
     // Limite massimo e passo
     private int limite;

@@ -10,7 +10,7 @@ package newpackage;
  */
 //rapprresentazione sintetica
 public class TelefonoCellulare {
-    //dichiarazione attributi
+    //Dichiarazione attributi
    public String marca;
    public String modello;
    public double prezzo;

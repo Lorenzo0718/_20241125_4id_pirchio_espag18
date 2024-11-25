@@ -9,7 +9,7 @@ package Studente;
  * @author Lorenzo
  */
 public class Studente {
-    //dichiarazione Attributi privati
+    //Dichiarazione Attributi privati
     private String cognome;
     private String nome;
     private String codiceFiscale;

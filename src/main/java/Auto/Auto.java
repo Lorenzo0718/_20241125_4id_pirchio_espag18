@@ -9,7 +9,7 @@ package Auto;
  * @author Lorenzo
  */
 public class Auto {
-    //dichiarazione Attributi privati
+    //Dichiarazione Attributi privati
     private String marca;
     private String modello;
     private String targa;
